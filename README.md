@@ -1,6 +1,5 @@
 # IIoT Predictive Maintenance System
 An industrial IoT project that detects equipment anomalies from sensor data using Machine Learning — built in Python
-https://colab.research.google.com/drive/1lqwhUK5kPVx1PAvoRlsbdYDiR49_wsnX?usp=sharing
 
 ![Anomaly Detection Chart](anomaly_detection.png)
 
