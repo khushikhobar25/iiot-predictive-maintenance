@@ -26,15 +26,7 @@ This is called **Predictive Maintenance** — a key concept in Industry 4.0 and 
 3. Run each cell in order (Cell 1 to Cell 5)
 4. The anomaly chart and summary report will be generated automatically
 
-## Project structure
-iiot-predictive-maintenance/
-│
-├── predictive_maintenance.ipynb   ← main project notebook
-├── anomaly_detection.png          ← output chart
-└── README.md                      ← this file
-```
 ## Key concepts used
-
 - **IIoT (Industrial Internet of Things):** Connecting industrial machines to collect and analyze sensor data
 - **Anomaly Detection:** Finding unusual patterns that indicate a fault or failure
 - **Isolation Forest:** An unsupervised ML algorithm that isolates anomalies by randomly partitioning data
